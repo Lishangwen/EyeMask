@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="model_spinner">
+        <item>模式0</item>
+	    <item>模式1</item>
+	    <item>模式2</item>
+	    <item>模式3</item>
+	    <item>模式4</item>
+	    <item>模式5</item>
+	    <item>模式6</item>
+	</string-array>
+</resources>
